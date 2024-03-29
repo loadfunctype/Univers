@@ -22,6 +22,7 @@ local Loader = Library:Create("ScreenGui", {
 	ZIndexBehavior = Enum.ZIndexBehavior.Global,
     Enabled = false
 })
+
 --[[
 
 if syn.protect_gui then
